@@ -10,3 +10,7 @@ docs to understands codecs
 |----------|----------|
 | coder/decoder | encoder/decoder | 
 | software | hardware |
+
+
+
+(*) portmanteau
